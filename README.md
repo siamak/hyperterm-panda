@@ -1,4 +1,4 @@
-![Panda Logo](https://raw.githubusercontent.com/siamak/hyperterm-panda/master/panda.jpg)
+![Panda Logo](https://raw.githubusercontent.com/siamak/hyperterm-panda/master/cover.jpg)
 
 A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [HyperTerm](https://hyperterm.org), with subtle colors that are meant to be easy on the eyes.
 
