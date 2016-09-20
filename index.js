@@ -80,6 +80,11 @@ exports.decorateConfig = (config) => (
       .tab_text {
         border-color: transparent !important;
       }
+      /* Close button faint shadow for easy spotting */
+      .tab_icon {
+        background-color: rgba(255, 255, 255, .025);
+        opacity: 1;
+      }
     `
     })
 );
