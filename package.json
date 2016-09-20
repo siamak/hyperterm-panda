@@ -1,7 +1,9 @@
 {
   "name": "hyperterm-panda",
-  "version": "0.0.1",
-  "keywords": ["hyperterm"],
+  "version": "0.0.2",
+  "keywords": [
+    "hyperterm"
+  ],
   "description": "",
   "dependencies": {}
 }
