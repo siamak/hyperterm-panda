@@ -1,6 +1,10 @@
 {
   "name": "hyperterm-panda",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siamak/hyperterm-panda.git"
+  },
   "keywords": [
     "hyperterm"
   ],
